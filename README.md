@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Nouhaila, a DevOps apprentice with a passion for automation and cloud computing. I've developed skills in Python, Docker, and Kubernetes. I'm currently working in Ansys and excited to collaborate on new projects and learn from others in the DevOps community. Let's connect and explore opportunities for growth and innovation!
+
+# My Github Stats
+![](https://komarev.com/ghpvc/?username=Nouhamk&color=brightgreen)
+
+![Nouhamk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nouhamk)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nouhamk&theme=github-dark&fire=DD2727)](https://git.io/streak-stats)
+
 <!--
 **Nouhamk/Nouhamk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
