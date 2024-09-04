@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nouhaila, a DevOps apprentice with a passion for automation and cloud computing. I'm currently working in Ansys and excited to collaborate on new projects and learn from others in the DevOps community. Let's connect and explore opportunities for growth and innovation!
+I'm Nouhaila, a DevOps apprentice majoring in software architecture with a passion for design, automation and cloud computing. I'm currently working in Ansys and excited to collaborate on new projects and learn from others in the DevOps community. Let's connect and explore opportunities for growth and innovation!
 
 # My Github Stats
 ![](https://komarev.com/ghpvc/?username=Nouhamk&color=brightgreen)
